@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/abdalla-marzouk" target="_blank"><img src="C:\Users\abdalla ashraf\Downloads"/></a>
+<a href="https://linkedin.com/in/abdalla-marzouk" target="_blank"><img src="https://images.app.goo.gl/ipvQKGZEdv4tzoRf8"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
