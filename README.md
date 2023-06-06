@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/abdalla-marzouk" target="_blank"><img src="[https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white](https://www.linkedin.com/in/abdalla-marzouk-48585a229/)"/></a>
+<a href="https://linkedin.com/in/abdalla-marzouk" target="_blank"><img src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BOghwxptyRkO%2FNVV6w6i8YA%3D%3D"/></a>
 <a href="https://t.me/abdallamarzouk" target="_blank"><img src="https://img.shields.io/badge/-Abdalla%20Marzouk?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
